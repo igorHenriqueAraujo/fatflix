@@ -1,123 +1,143 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Churrasco",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Churrasco no Youtube",
+        "url": "https://www.youtube.com/results?search_query=churrasco"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "A Picanha Perfeita - 3 Maneiras",
+          "url": "https://www.youtube.com/watch?v=L-DTcYqe4nI"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Preparando um Tomahawk",
+          "url": "https://www.youtube.com/watch?v=BLvrVo529Uk"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Chuleta com Chimichurri",
+          "url": "https://www.youtube.com/watch?v=qgDBAGqW2yc"
+        }, 
+        {
+          "titulo": "Costela Rojão/Minga a Moda Caipira",
+          "url": "https://www.youtube.com/watch?v=fOpvzWqCV0s"
+        },               
+        {
+          "titulo": "5 dicas para seu Churrasco",
+          "url": "https://www.youtube.com/watch?v=TZ7H_epEMDQ"
+        },        
+        {
+          "titulo": "Costelinha BBQ Espetada",
+          "url": "https://www.youtube.com/watch?v=EIzYBBK-PC0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Denver Steak ou Miolo do Acém",
+          "url": "https://www.youtube.com/watch?v=TtOt8liaURw"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Panceta Pururuca na Churrasqueira",
+          "url": "https://www.youtube.com/watch?v=DivEZ2Oyhqs"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Hamburger",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Hamburger no Youtube",
+        "url": "https://www.youtube.com/results?search_query=hamburguer"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Receita Caseira do Óraculo Burger",
+          "url": "https://www.youtube.com/watch?v=_bspJojod1k"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Camemburger",
+          "url": "https://www.youtube.com/watch?v=5Au5VZEwBj0"
+        },         
+        {
+          "titulo": "Smash Burger do HummBurger/RJ",
+          "url": "https://www.youtube.com/watch?v=Je656AZVIo4"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Burger na Churrasqueira",
+          "url": "https://www.youtube.com/watch?v=Kc154K3BrCs"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Jacquin decide fazer hamburguer e olha no que deu!",
+          "url": "https://www.youtube.com/watch?v=Uf7UFKMXCho"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Cozinha Medieval",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Cozinha Medieval no Youtube",
+        "url": "https://www.youtube.com/results?search_query=cozinha+medieval"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Pernil de Cordeiro a Moda Viking",
+          "url": "https://youtu.be/7xhc0lJHECY"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Porco Gratinado",
+          "url": "https://www.youtube.com/watch?v=0Y8wtbPoHNg"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Paleta de Javali a Moda Gaulesa",
+          "url": "https://www.youtube.com/watch?v=vzTYwuxsWiQ"
+        },        
+        {
+          "titulo": "Guizado de Winterfell",
+          "url": "https://www.youtube.com/watch?v=zrrs41X8Guk"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
+          "titulo": "Peras Sangrentas",
+          "url": "https://www.youtube.com/watch?v=eItDkabEWmA"
+        },        
+        {
+          "titulo": "Bolo de Nozes e Amora",
+          "url": "https://www.youtube.com/watch?v=wt2x3jSzo_Q"
+        },
+        {
+          "titulo": "Pernil de Javali",
+          "url": "https://www.youtube.com/watch?v=z8Q1S1q90RU"
+        },                
+        {
+          "titulo": "Pão Medieval",
+          "url": "https://www.youtube.com/watch?v=_QK3o7QnCyY"
+        },
+        {
+          "titulo": "Vinho Condimentado",
+          "url": "https://www.youtube.com/watch?v=rVlclElds8A"
+        }        
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Restaurantes Famosos na Sua Casa",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Big Mac",
+          "url": "https://www.youtube.com/watch?v=aYjYl9nAKsE"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Costelinha do Outback",
+          "url": "https://www.youtube.com/watch?v=lD6_kbdQ9M8"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
+          "titulo": "Big Tasty com Molho Especial",
+          "url": "https://www.youtube.com/watch?v=RxhqJpqfkvY"
+        },        
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Cebola do Outback",
+          "url": "https://www.youtube.com/watch?v=eGZVSgxuTzU"
         }
       ]
     },
