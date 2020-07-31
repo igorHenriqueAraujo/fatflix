@@ -2,7 +2,7 @@
   "categorias": [
     {
       "titulo": "Churrasco",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "https://www.youtube.com/results?search_query=churrasco",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Churrasco no Youtube",
@@ -136,69 +136,93 @@
           "url": "https://www.youtube.com/watch?v=RxhqJpqfkvY"
         },        
         {
+          "titulo": "Como Fazer - Frango do KFC",
+          "url": "https://www.youtube.com/watch?v=n7h9S8brXRM"
+        },
+        {
           "titulo": "Cebola do Outback",
           "url": "https://www.youtube.com/watch?v=eGZVSgxuTzU"
+        },
+        {
+          "titulo": "Como Fazer - Mega Stacker 4.0 Catupiry",
+          "url": "https://www.youtube.com/watch?v=Zi32E3oNHQ8"
+        },
+        {
+          "titulo": "Como Fazer Boneless Buffalo Wings do Applebees",
+          "url": "https://www.youtube.com/watch?v=2qFKXBO12QQ"
+        },
+        {
+          "titulo": "Como Fazer Chocoloate Thunder do Outback",
+          "url": "https://www.youtube.com/watch?v=HQJQhAPhZZQ"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Cozinha Nordestina",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Cozinha Nordestina no Youtube",
+        "url": "https://www.youtube.com/results?search_query=cozinha+nordestina"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "O Delicioso Baião de Dois",
+          "url": "https://www.youtube.com/watch?v=4cEWoKn7QbE"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Feijão Tropeiro",
+          "url": "https://www.youtube.com/watch?v=c9HUne_dk3E"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Moqueca de Peixe com Farofa",
+          "url": "https://www.youtube.com/watch?v=qKCZK3v1eoA"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Dobradinha",
+          "url": "https://www.youtube.com/watch?v=B5_K5B_i1p4"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Mocotó",
+          "url": "https://www.youtube.com/watch?v=TTKg4KU31Hg"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Drinks",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Drinks no Youtube",
+        "url": "https://www.youtube.com/results?search_query=drinks"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Receitas de Drinks para Festa",
+          "url": "https://www.youtube.com/watch?v=4u_ODB0kb-8"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Como fazer o drink Mojito",
+          "url": "https://www.youtube.com/watch?v=7SJ-V_UPQSk"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Como fazer o Negroni perfeito",
+          "url": "https://www.youtube.com/watch?v=W9qMd23zGJA"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Como fazer um Moscow Mule",
+          "url": "https://www.youtube.com/watch?v=1v81FvIc1xI"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
+          "titulo": "Como fazer um Dry Martini",
+          "url": "https://www.youtube.com/watch?v=bVvDnEbxF2w"
+        },
+        {
+          "titulo": "Manhattan cocktail",
+          "url": "https://youtu.be/WI59-A5AHdA"
+        },
+        {
+          "titulo": "GIZ FIZZ, Como fazer",
+          "url": "https://www.youtube.com/watch?v=qQ_3KiDiMVg"
+        }                
       ]
     }
   ]
